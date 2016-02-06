@@ -26,7 +26,7 @@ class ViewController: UIViewController {
     
     switch(sender.selectedSegmentIndex) {
       case 1:
-        bookTitle = "Título del libro"
+        bookTitle = "Título del libro Título del libro Título del libro"
         publicationDate = "Fecha de publicación"
         pages = "Páginas"
         leadAuthor = "Autor principal"
